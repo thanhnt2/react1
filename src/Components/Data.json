@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Pacific rim",
+        "tel": "0326216099",
+        "Permission": 1
+    },
+    {
+        "id":2,
+        "name": "Iron man",
+        "tel": "0488583939",
+        "Permission": 1
+    },
+    {
+        "id":3,
+        "name": "Super man",
+        "tel": "029039022",
+        "Permission": 2
+    },
+    {
+        "id":4,
+        "name": "Spider man",
+        "tel": "0292938331",
+        "Permission": 1
+    },
+    {
+        "id":5,
+        "name": "Wonder woman",
+        "tel": "05939292021",
+        "Permission": 3
+    }
+]
